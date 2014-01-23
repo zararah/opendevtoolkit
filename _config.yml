@@ -3,10 +3,10 @@
 permalink: none
 
 # Template Variables
-title: 'EnergyHack Berlin'
-github: 'https://github.com/okfde/energyhack'
-twitter: '#'
-contact: 'julia.kloiber@okfn.org'
+title: 'Open Development Toolkit'
+github: 'https://github.com/zararah/opendevtoolkit'
+twitter: 'http://twitter.com/okfn'
+contact: 'zara.rahman@okfn.org'
 
 # Navigation
 navigation:
