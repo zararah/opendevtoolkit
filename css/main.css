@@ -6,6 +6,8 @@
  * Kroc Camen, and the H5BP dev community and team.
  */
 
+@import url(//fonts.googleapis.com/css?family=Nobile:400,700,400italic,700italic);
+
 /* ==========================================================================
    Base styles: opinionated defaults
    ========================================================================== */
@@ -93,43 +95,9 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
-@font-face {
-    font-family: 'misobold';
-    src: url('../font/miso-bold-webfont.eot');
-    src: url('../font/miso-bold-webfont.eot?#iefix') format('embedded-opentype'),
-         url('../font/miso-bold-webfont.woff') format('woff'),
-         url('../font/miso-bold-webfont.ttf') format('truetype'),
-         url('../font/miso-bold-webfont.svg#misobold') format('svg');
-    font-weight: normal;
-    font-style: normal;
-
-}
-@font-face {
-    font-family: 'misolight';
-    src: url('../font/miso-light-webfont.eot');
-    src: url('../font/miso-light-webfont.eot?#iefix') format('embedded-opentype'),
-         url('../font/miso-light-webfont.woff') format('woff'),
-         url('../font/miso-light-webfont.ttf') format('truetype'),
-         url('../font/miso-light-webfont.svg#misolight') format('svg');
-    font-weight: normal;
-    font-style: normal;
-
-}
-@font-face {
-    font-family: 'misoregular';
-    src: url('../font/miso-regular-webfont.eot');
-    src: url('../font/miso-regular-webfont.eot?#iefix') format('embedded-opentype'),
-         url('../font/miso-regular-webfont.woff') format('woff'),
-         url('../font/miso-regular-webfont.ttf') format('truetype'),
-         url('../font/miso-regular-webfont.svg#misoregular') format('svg');
-    font-weight: normal;
-    font-style: normal;
-
-}
-
 body {
     padding-top: 50px;
-    font-family: 'misoregular', sans-serif;
+    font-family: 'Nobile', sans-serif;
 }
 .container {
     position: relative;
@@ -152,7 +120,6 @@ ul {
     margin: 0 0 10px 10px;
 }
 .social-media li a {
-    font-family: 'misobold', sans-serif;
     padding: 2px 20px;
     background: #FFEC00;
     font-size: 1.2em;
@@ -173,8 +140,6 @@ ul {
     padding: 20px 20px 0;
     line-height: 0.8em;
     text-align: center;
-    font-weight: normal;
-    font-family: 'misobold',sans-serif;
 }
 #teaser h1 span.lightning{
     background-image: url('../img/strom_icon.png');
@@ -184,7 +149,6 @@ ul {
 }
 #teaser h2 {
     margin: 0;
-    font-family: 'misolight', sans-serif;
     font-size: 4em;
     text-transform: uppercase;
     line-height: 0.9em;
@@ -200,7 +164,6 @@ ul {
     line-height: 0.8em;
     text-align: center;
     font-weight: normal;
-    font-family: 'misolight',sans-serif;
     }
 
 blockquote {
