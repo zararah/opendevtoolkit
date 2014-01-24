@@ -125,7 +125,7 @@ ul {
     font-size: 1.2em;
     color: #3D3D3F;
     text-decoration: none;
-    text-transform: uppercase;
+
 }
 .social-media li a:hover {
     text-decoration: none;
@@ -136,9 +136,8 @@ ul {
 #teaser h1 {
     margin: 0;
     font-size: 6.5em;
-    text-transform: uppercase;
     padding: 20px 0px 0;
-    line-height: 1.0em;
+    line-height: 1.1em;
     text-align: center;
     letter-spacing: 0px;
 }
@@ -150,9 +149,10 @@ ul {
 }
 #teaser h2 {
     margin: 0;
-    font-size: 4em;
+    font-size: 3em;
+    padding: 0px 0px 20px;
     text-transform: uppercase;
-    line-height: 0.9em;
+    line-height: 1em;
     text-align: center;
     font-weight: normal;
     letter-spacing: 1px;
