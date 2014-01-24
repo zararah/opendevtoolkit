@@ -13,11 +13,11 @@ body {
     color: #FFF;
 }
 .color2 {
-    background: #00C786;
+    background: #2C4C9C;
     color: #FFF;
 }
 .color3{
-    background: #FFEC00;
+    background: #EFEFEF;
     color: #3D3D3F;
 }
 .color4{
@@ -74,15 +74,15 @@ body {
 }
 
 .social-media li a {
-    background: #FFEC00;
+    background: #EFEFEF;
     color: #3D3D3F;
 }
 .social-media li a:hover {
     background: #3D3D3F;
-    color: #FFEC00;
+    color: #EFEFEF;
 }
 #teaser h2 {
-    color: #FFEC00;
+    color: #35BCE5;
 }
 #register a {
     background: #3D3D3F;
@@ -90,10 +90,10 @@ body {
 }
 #register a:hover {
     background: #3D3D3F;
-    color: #FFEC00;
+    color: #35BCE5;
 }
 #about a {
-    color: #FFEC00;
+    color: #35BCE5;
 }
 #about a:hover {
     color: #FFF;
