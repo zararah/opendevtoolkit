@@ -135,11 +135,12 @@ ul {
 }
 #teaser h1 {
     margin: 0;
-    font-size: 10em;
+    font-size: 6.5em;
     text-transform: uppercase;
-    padding: 20px 20px 0;
-    line-height: 0.8em;
+    padding: 20px 0px 0;
+    line-height: 1.0em;
     text-align: center;
+    letter-spacing: 0px;
 }
 #teaser h1 span.lightning{
     background-image: url('../img/strom_icon.png');
