@@ -199,6 +199,10 @@ margin-bottom: 50px	 !important;
 
 }
 
+.review p {
+    padding-bottom: 0;
+}
+
 .bulletlist {
 list-style-type: square;
 font-size: 1.5em;
