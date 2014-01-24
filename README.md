@@ -1,8 +1,9 @@
-energyhack.de
-=============
+OpenDevToolkit.net
+==================
 
-Deutschland spricht über die Energiewende, über nachhaltige Versorgung und darüber, wie wir unseren Energieverbrauch in Zukunft einschränken und Energie effizienter nutzen können.
+The Open Development Toolkit will act as a hub around open development, bringing together tools and
+training materials in one place, with the aim of increasing use of open
+development data and encouraging its use to inform decisions within the
+sector.
 
-Mit dem Hackday “Energy Hacks” wollen wir einen Schritt in die Richtung dieser Zukunft gehen und uns überlegen, welche Geräte und Anwendungen uns dabei helfen könnten, effizienter mit Strom umzugehen und das abstrakte Thema Stromversorgung und die Infrastruktur Stromnetz besser verständlich und greifbar zu machen. Konkret: Wir wollen die Energiewende “hacken” und uns abseits theoretischer Diskussionen daran machen, Werkzeuge für die Zukunft zu bauen.
-
-Weitere Infos: [energyhack.de](http://energyhack.de)
+More information on the [Open development Toolkit](http://opendevtoolkit.net)
