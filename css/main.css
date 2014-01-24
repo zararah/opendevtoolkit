@@ -215,8 +215,7 @@ padding: 10px 0;
 }
 
 h4 {
-    font-weight: normal;
-    text-transform: uppercase;
+    font-weight: bold;
     padding: 0 20px;
     font-size: 1.5em;
     line-height: 1em;
@@ -245,7 +244,7 @@ p {
 }
 
 .contact-area a {
-    color: #fff;
+    color: #3D3D3F;
 }
 
 .contact-area p {
