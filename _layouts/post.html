@@ -1,0 +1,19 @@
+---
+layout: base
+---
+
+<div class="row-fluid color3 post">
+    <div class="span12">
+        <main>
+          <header>
+
+            <h1>{{ page.title }} {% if page.tagline %}<small>{{page.tagline}}</small>{% endif %}</h1>
+
+          </header>
+          <article>
+            <span class="prearticle"><span class="date">{{ page.date | date_to_long_string }} </span>&sdot;&nbsp;</span>  {{ content }}
+          </article>
+        </main>
+    </div>
+</div>
+

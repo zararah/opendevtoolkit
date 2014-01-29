@@ -1,0 +1,50 @@
+<div id="challenges" class="row-fluid">
+    <div class="span6 color3">
+        <div class="heading color1">Challenge 1:<br /> Stromversorgung besser verstehen</div>
+        <ul>
+          {% for post in site.posts %}
+            <li>
+              <a href="{{ post.url }}">{{ post.title }}</a>
+            </li>
+          {% endfor %}
+        </ul>
+    </div>
+    <div class="span6 color3">
+        <div class="heading color1">Challenge 2: <br />Energieeffizienz</div>
+        <p>Wie können wir als Verbraucher effizienter mit Strom umgehen? Wieviel verbrauchen wir eigentlich und in welchem Verhältnis steht das zu den anderen Verbrauchern?</p>
+        <h4>Gesucht:</h4>
+        <p>Um diese Fragen zu beantworten, suchen wir:
+        Hardware und Software Anwendungen, die zum Stromsparen anregen.
+        z.B. Smartphone- und Webapps für Verbraucher und Energiespargadgets.</p>
+        <h4>Inspirationen:</h4>
+        <ul class="thumbnails">
+            <li class="span6">
+                <div class="thumbnail">
+                    <a href="http://www.misusage.org/wordpress/?page_id=399"><img src="img/challenges/emps.jpg" alt="EMPS - Der emphatische Stromspar-Helfer" />
+                    <p>EMPS - Der emphatische Stromspar-Helfer</p></a>
+                </div>
+            </li>
+            <li class="span6">
+                <div class="thumbnail">
+                    <a href="http://appsforenergy.challenge.gov/submissions/7987-leafully">
+                    <img src="img/challenges/leafully.jpg" alt="Leafully - Stromverbrauch einfach verstehen" />
+                    <p>Leafully - Stromverbrauch einfach verstehen</p></a>
+                </div>
+            </li>
+        </ul>
+        <ul class="thumbnails">
+            <li class="span6">
+                <div class="thumbnail">
+                    <a href="http://appsforenergy.challenge.gov/submissions/7998-wotz">
+                    <img src="img/challenges/wotz.jpg" alt="Wotz - Telling your Energy Story" />
+                    <p>Wotz - Telling your Energy Story</p></a>
+                </div>
+            </li>
+            <li class="span6">
+                <div class="thumbnail">
+                    <img src="img/challenges/deineidee.jpg" alt="Deine Idee?" />
+                </div>
+            </li>
+        </ul>
+    </div>
+</div>

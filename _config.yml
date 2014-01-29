@@ -1,6 +1,6 @@
 
 # General Stettings
-permalink: none
+permalink: /:categories/:year/:month/:day/:title
 
 # Template Variables
 title: 'Open Development Toolkit'
