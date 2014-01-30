@@ -10,14 +10,14 @@
         <meta name="description" content="{% if page.desc %}{{ page.desc }}{% endif %}">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta http-equiv="default-style" content="day">
-        <link rel="stylesheet" href="css/normalize.css">
-        <link rel="stylesheet" href="css/bootstrap.min.css">
-        <link rel="stylesheet" href="css/bootstrap-responsive.min.css">
-        <link rel="stylesheet" href="css/main.css">
-        <link rel="stylesheet" href="css/day.css" title="day">
-        <link rel="stylesheet" href="css/night.css" title="night">
-        <script src="js/vendor/modernizr-2.6.2.min.js"></script>
-        <script src="js/styleswitcher.js"></script>
+        <link rel="stylesheet" href="{{ site.url }}/css/normalize.css">
+        <link rel="stylesheet" href="{{ site.url }}/css/bootstrap.min.css">
+        <link rel="stylesheet" href="{{ site.url }}/css/bootstrap-responsive.min.css">
+        <link rel="stylesheet" href="{{ site.url }}/css/main.css">
+        <link rel="stylesheet" href="{{ site.url }}/css/day.css" title="day">
+        <link rel="stylesheet" href="{{ site.url }}/css/night.css" title="night">
+        <script src="{{ site.url }}/js/vendor/modernizr-2.6.2.min.js"></script>
+        <script src="{{ site.url }}/js/styleswitcher.js"></script>
 			  <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.5.1/leaflet.css" />
 				<!--[if lte IE 8]>
     			<link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.5.1/leaflet.ie.css" />
@@ -33,6 +33,9 @@
         <div class="container">
             <header class="row-fluid social-media">
                 <ul>
+                    {% if page.type == 'resource' %}
+                        <li class="post-home color1"><a href="/">Open Development Toolkit</a></li>
+                    {% endif %}
                     <li>
                         <a href="https://twitter.com/OpenDevToolkit">Twitter</a>
                     </li>
@@ -64,10 +67,10 @@
                     </div>
                </div>
 
-                   
-                        
-                    
-                
+
+
+
+
                 <div class="span4 contact-area">
                     <p>
                         <a href="mailto:{{ site.contact }}">Contact</a><br/>
@@ -76,7 +79,7 @@
                     </p>
 
                 </div>
-                
+
                 <div class="span4 contact-area">
                     <p>
                         Site design forked from <a href="http://energyhack.de">EnergyHack</a><br/>
@@ -86,8 +89,8 @@
             </div>
         </footer>
         <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-        <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
-        <script src="js/plugins.js"></script>
-        <script src="js/main.js"></script>
+        <script>window.jQuery || document.write('<script src="{{ site.url }}/js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
+        <script src="{{ site.url }}/js/plugins.js"></script>
+        <script src="{{ site.url }}/js/main.js"></script>
     </body>
 </html>

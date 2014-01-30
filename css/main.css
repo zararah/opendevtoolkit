@@ -203,6 +203,21 @@ margin-bottom: 50px	 !important;
     padding-bottom: 0;
 }
 
+.post h1 {
+    padding-left: 20px;
+    padding-top: 10px;
+}
+
+.post .prearticle {
+    margin-left: 20px;
+}
+
+.post-home {
+    font-size: 1em;
+    font-weight: bold;
+    text-decoration: none;
+}
+
 .bulletlist {
 list-style-type: square;
 font-size: 1.5em;
