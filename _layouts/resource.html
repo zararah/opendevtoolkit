@@ -1,6 +1,6 @@
 ---
 layout: base
-type: post
+type: resource
 ---
 
 <div class="row-fluid color3 post">
@@ -12,7 +12,8 @@ type: post
 
           </header>
           <article>
-            <span class="prearticle"><span class="date">{{ page.date | date_to_long_string }} </span>&sdot;&nbsp;</span>  {{ content }}
+            <span class="prearticle">
+              {{ content }}
           </article>
         </main>
     </div>

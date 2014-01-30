@@ -33,6 +33,9 @@
         <div class="container">
             <header class="row-fluid social-media">
                 <ul>
+                    {% if page.type == 'resource' %}
+                        <li class="post-home color1"><a href="/">Open Development Toolkit</a></li>
+                    {% endif %}
                     <li>
                         <a href="https://twitter.com/OpenDevToolkit">Twitter</a>
                     </li>

@@ -212,6 +212,12 @@ margin-bottom: 50px	 !important;
     margin-left: 20px;
 }
 
+.post-home {
+    font-size: 1em;
+    font-weight: bold;
+    text-decoration: none;
+}
+
 .bulletlist {
 list-style-type: square;
 font-size: 1.5em;
