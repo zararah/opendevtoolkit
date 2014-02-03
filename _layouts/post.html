@@ -2,19 +2,26 @@
 layout: base
 type: post
 ---
+<header class="row-fluid navigation">
+    <ul>
+      <li class="post-home color1"><a href="/">Home</a></li>
+    </ul>
+</header>
+<section>
 
-<div class="row-fluid color3 post">
-    <div class="span12">
-        <main>
-          <header>
+  <div class="row-fluid color3 post">
+      <div class="span12">
+          <main>
+            <header>
 
-            <h1>{{ page.title }} {% if page.tagline %}<small>{{page.tagline}}</small>{% endif %}</h1>
+              <h1>{{ page.title }} {% if page.tagline %}<small>{{page.tagline}}</small>{% endif %}</h1>
 
-          </header>
-          <article>
-            <span class="prearticle"><span class="date">{{ page.date | date_to_long_string }} </span>&sdot;&nbsp;</span>  {{ content }}
-          </article>
-        </main>
-    </div>
-</div>
+            </header>
+            <article>
+              <span class="prearticle"><span class="date">{{ page.date | date_to_long_string }} </span>&sdot;&nbsp;</span>  {{ content }}
+            </article>
+          </main>
+      </div>
+  </div>
+</section>
 
