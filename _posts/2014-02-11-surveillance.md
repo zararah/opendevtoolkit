@@ -1,16 +1,16 @@
 ---
 layout: post
-tagline: "Humanitarian crises"
+tagline: ""
 tags : [tech, open knowledge, surveillance, globaldev, ethics]
 title: "The Day We Fight Back; the role of mass surveillance in humanitarian crises"
 unlisted: false
 ---
 
-Today, February 11th, is [The Day We Fight Back](https://thedaywefightback.org/) against mass surveillance. It's been framed by its organisers as a protest against NSA surveillance - so, you might wonder, what does that have to do with Open Development data? 
+Today, February 11th, is [The Day We Fight Back](https://thedaywefightback.org/); a global online and offline protest against mass surveillance. It's been framed by its organisers as a protest against NSA surveillance - so, you might wonder, what does that have to do with Open Development data? 
 
-A lot, actually. There have been multiple occasions when mass surveillance and data collection have played huge roles in facilitating humanitarian crises such as genocides. In addition, as has been covered comprehensively by Privacy International's report, "Aiding Privacy", aid organisations are now some of the biggest data collectors among the world's most vulnerable communities; what could happen if that data got into the wrong hands? 
+A lot, actually. There have been multiple occasions when mass surveillance and data collection have played key roles in facilitating humanitarian crises, including genocides. In addition, as has been covered comprehensively in Privacy International's report, ["Aiding Privacy"](https://www.privacyinternational.org/projects/aiding-privacy), aid organisations are now some of the biggest data collectors among the world's most vulnerable communities. Aid agencies are also supporting and funding data collection schemes which have in some cases been knocked back in their home countries; such as [USAID funding the "My ID My Life" campaign in Kenya](http://www.whitehouse.gov/the-press-office/2013/06/27/fact-sheet-us-support-strengthening-democratic-institutions-rule-law-and) in 2013, which provided national ID cards for 500,000 young people. 
 
-The debate around the ethics of data collection in international development is ongoing with groups such as the engine room, Privacy International, Aspiration Tech, the Open Knowledge Foundation, and researchers around the world; see the Responsible Data Forum series of events for more information. 
+The debate around the ethics of data collection in international development is ongoing with groups such as [the engine room](https://www.theengineroom.org/), [Privacy International](https://www.privacyinternational.org/), [Aspiration Tech](http://aspirationtech.org/), [the Open Knowledge Foundation](http://okfn.org/), and researchers around the world; see the [Responsible Data Forum](https://www.theengineroom.org/projects/responsible-data-forum/) series of events for more information. 
 
 To make really clear the link between surveillance and mass human rights' abuses, and to highlight some of humanity's worst examples of what can happen with mass surveillance, lack of freedom of expression, and abuse of data, here are a couple of examples. 
 
@@ -34,7 +34,9 @@ More information: https://pantherfile.uwm.edu/margo/public/publications/darkside
 
 <h2>IBM and the Holocaust</h2>
 
-<blockquote>""The government of our Führer and Reichschancellor Adolf Hitler is statistics-friendly," wrote Zahn in Allgemeines Statistisches Archiv (ASA), the official journal of the German Statistical Society" ([Source: Gizmodo, "How IBM Technology Jump Started the Holocaust"](http://gizmodo.com/5812025/how-ibm-technology-jump-started-the-holocaust))</blockquote>
+<blockquote>""The government of our Führer and Reichschancellor Adolf Hitler is statistics-friendly," wrote Zahn in Allgemeines Statistisches Archiv (ASA), the official journal of the German Statistical Society"</blockquote>
+
+[Source: Gizmodo, "How IBM Technology Jump Started the Holocaust"](http://gizmodo.com/5812025/how-ibm-technology-jump-started-the-holocaust)
 
 Systems to identify Jews on a large scale played a key role in the Holocaust, and the development of punch card technology facilited automation - and thus speed - of collection of this data. Statistical publications released from Germany throughout this period, with titles such as "Development of German Population Statistics through Genetic-Biological Stock-Taking" and "The Position of Statistics in the New Reich" give perhaps an idea of the importance given to statistics as a facilitating factor to the Holocaust. 
 
@@ -48,3 +50,5 @@ More information: https://pantherfile.uwm.edu/margo/public/publications/darkside
 [Confirmed: The U.S. Census Bureau Gave Up Names of Japanese-Americans in WW II](http://www.scientificamerican.com/article/confirmed-the-us-census-b/)
 
 Further reading: The Dark Side of Numbers: The Role of Population Data Systems in Human Rights Abuses, by William Seltzer and Margo Anderson [link](https://pantherfile.uwm.edu/margo/public/publications/darkside4897395.pdf)
+
+[Aiding Privacy](https://www.privacyinternational.org/projects/aiding-privacy), by Privacy International
