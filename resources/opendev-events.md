@@ -12,10 +12,6 @@ There's a lot going on within the Open Development community, and in the spirit 
 If you have other suggestions on how things could be best organised on this page, let us know! 
 
 <div style="padding:30px;"> 
-<iframe src="http://www.google.com/calendar/embed?src=okfn.org_u9abrf7tc3nj8kq49pne91552o%40group.calendar.google.com&ctz=Europe/Berlin" style="border: 0;" width="800" height="600" frameborder="0" scrolling="no">&nbsp;      </iframe>
-</div>
-
-<div style="padding:30px;"> 
 	<div class="lanyrd-target-guide">
     <a href="http://lanyrd.com/guides/open-development/"
         class="lanyrd-guide"
