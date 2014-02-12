@@ -48,6 +48,8 @@ After decades of denial, it was revealed just a few years ago that during World 
 
 More information: [Confirmed: The U.S. Census Bureau Gave Up Names of Japanese-Americans in WW II](http://www.scientificamerican.com/article/confirmed-the-us-census-b/)
 
+(Got any more examples of how mass surveillance has played a role in humanitarian crises? Drop an email to zara.rahman[at]okfn.org and we'll add them.)
+
 Further reading: [The Dark Side of Numbers: The Role of Population Data Systems in Human Rights Abuses, by William Seltzer and Margo Anderson](https://pantherfile.uwm.edu/margo/public/publications/darkside4897395.pdf)
 
 [Aiding Privacy](https://www.privacyinternational.org/projects/aiding-privacy), by Privacy International
