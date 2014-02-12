@@ -7,7 +7,7 @@ unlisted: false
 isresource: true
 ---
 
-There's a lot going on within the Open Development community, and in the spirit of avoiding duplication and promoting collaboration, here's a list of events that are going on. Events from the [Open Development guide on Lanyrd](http://lanyrd.com/guides/open-development/) are embedded below the calendar; we're aware that lots of more informal events and workshops don't make it to Lanyrd though, so for those, check out the Google Calendar. To be added to the Google Calendar in order to add events, please drop [zara.rahman[at]okfn.org](mailto:zara.rahman@okfn.org) an email with your address.
+There's a lot going on within the Open Development community, and in the spirit of avoiding duplication and promoting collaboration, we'd love to encourage sharing when workshops are taking place. Events from the [Open Development guide on Lanyrd](http://lanyrd.com/guides/open-development/) are embedded below; we're aware that lots of more informal events and workshops don't make it to Lanyrd though, so if you'd like to let the community know about upcoming events you're organising, drop Zara a line on [zara.rahman[at]okfn.org](mailto:zara.rahman@okfn.org), or simply [submit a pull request](https://github.com/zararah/opendevtoolkit/blob/gh-pages/resources/opendev-events.md) and add it to the page yourself. 
 
 If you have other suggestions on how things could be best organised on this page, let us know! 
 
