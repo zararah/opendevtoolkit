@@ -15,18 +15,6 @@ If you have other suggestions on how things could be best organised on this page
 <iframe src="http://www.google.com/calendar/embed?src=okfn.org_u9abrf7tc3nj8kq49pne91552o%40group.calendar.google.com&ctz=Europe/Berlin" style="border: 0;" width="800" height="600" frameborder="0" scrolling="no">BATMAN</iframe>
 </div>
 
-<div style="padding:30px;"> 
-	<div class="lanyrd-target-guide">
-    <a href="http://lanyrd.com/guides/open-development/"
-        class="lanyrd-guide"
-        data-lanyrd-context="future"
-        data-lanyrd-number="3"
-        data-lanyrd-template="eventsonly"
-        data-lanyrd-iframe="yes">
-        Open Development on Lanyrd
-    </a>
-	</div>
-</div>
 
 
 <script src="http://cdn.lanyrd.net/badges/embed-v1.min.js"></script>
