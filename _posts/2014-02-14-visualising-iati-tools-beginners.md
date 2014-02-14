@@ -14,9 +14,7 @@ But what does this data look like, and how can you visualise it?
 
 Project information published in the IATI standard is in XML format, which looks like this
 
-<img src="http://openforchange.info/sites/g/files/g60786/f/styles/large/public/201308/Untitled.png?itok=JW8gm7k8" align="right">
-
-Which is really cool for, lets say, “geeks”.
+<img src="http://openforchange.info/sites/g/files/g60786/f/styles/large/public/201308/Untitled.png?itok=JW8gm7k8" align="right"> Which is really cool for, lets say, “geeks”.
 
 I, with limited technical knowledge (I know some cool Excel tricks and always like to think I have some computer skills), have to admit that I am a [noob](https://en.wikipedia.org/wiki/Newbie) when it comes to coding. I can read the IATI XML, because I know how it is built up, but play around with it and make my own visualizations? These are skills I lack.
 
