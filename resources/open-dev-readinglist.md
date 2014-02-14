@@ -7,9 +7,7 @@ unlisted: false
 isresource: true
 ---
 
-There's lots of buzz out there around ICT4D (Information Communication Technologies for Development) and some great long and short reads around the open development, and international development, sphere. 
-
-Here's a few of our favourite reads (in no specific order) - got more? Drop us a line. Or, if you'd like to write a review on any of the books or reports below, your input would be most welcome. 
+Here are a few of our favourite reads (in no specific order) around the open development sphere; some are more focused on international development but often talk about data, others around aid or specific aspects of development. As the list grows we'll categorise it more, but for now, here's a first iteration. Got any other suggestions? Add them to the [etherpad](http://okfnpad.org/p/opendevreadinglist) or [submit a pull request on github](https://github.com/zararah/opendevtoolkit/blob/gh-pages/resources/open-dev-readinglist.md) to add to the page directly.
  
 ### Blogs 
 
