@@ -47,8 +47,10 @@ Here are a few of our favourite reads (in no specific order) around the open dev
 ### Reports 
 
 * [Aiding Surveillance](https://www.privacyinternational.org/sites/privacyinternational.org/files/file-downloads/aiding_surveillance.pdf) by Privacy International
+* [Emerging implications of open and linked data for knowledge sharing in development](http://eprints.soton.ac.uk/343198/), by Davies and Edwards
 
 ### Comedy / Misc.
 
 * Aid for Aid have produced [The Samaritans](http://aidforaid.org/), a satirical Kenyan sitcom series on NGOs
 * Pernilla Näsfors' [twitter list of people/organisations working on Open Development](https://twitter.com/pernillan/lists/opendev)
+* [Development 2.0 and beyond: Challenges for ICT4D in 2013](http://webcast.oii.ox.ac.uk/?view=Webcast&ID=20130227_487), talk from the Oxford Internet Institute 
