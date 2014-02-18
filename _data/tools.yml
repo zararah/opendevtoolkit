@@ -1,0 +1,275 @@
+- name: Aid Data Beta
+  url: http://www.aiddata.org
+  aim: 
+  audience:  
+  tech: 
+  source: 
+  github: 
+  creator: 
+  wishlist:  
+  status: 
+  documentation: 
+
+- name: Aid Flows
+  url: http://www.aidflows.org/
+  aim: to help publishers
+  audience: publishers  
+  tech: 
+  source: world bank
+  github: 
+  creator: aidflows
+  wishlist: quicker 
+  status: beta
+  documentation: 
+
+- name: Aid Stream
+  url: http://aidstream.org
+  aim: 
+  audience:  
+  tech: 
+  source: 
+  github: 
+  creator: 
+  wishlist:  
+  status: 
+  documentation: 
+
+- name: "Aid Transparency Tracker: data quality"
+  url: http://tracker.publishwhatyoufund.org/
+  aim: 
+  audience:  
+  tech: 
+  source: 
+  github: 
+  creator: 
+  wishlist:  
+  status: 
+  documentation: 
+
+- name: "Aid Transparency Tracker: IATI updates"
+  url: http://tracker.publishwhatyoufund.org/iatiupdates/
+  aim: 
+  audience:  
+  tech: 
+  source: 
+  github: 
+  creator: 
+  wishlist:  
+  status: 
+  documentation: 
+
+- name: "Aid Transparency Tracker: implementation schedules"
+  url: http://tracker.publishwhatyoufund.org/plan/
+  aim: 
+  audience:  
+  tech: 
+  source: 
+  github: 
+  creator: 
+  wishlist:  
+  status: 
+  documentation: 
+
+- name: AidView 
+  url: http://www.aidview.net/
+  aim: 
+  audience:  
+  tech: 
+  source: 
+  github: 
+  creator: 
+  wishlist:  
+  status: 
+  documentation: 
+
+- name: Development Tracker
+  url: http://devtracker.dfid.gov.uk/
+  aim: 
+  audience:  
+  tech: 
+  source: 
+  github: 
+  creator: 
+  wishlist:  
+  status: 
+  documentation: 
+
+- name: L'aide française au Mali
+  url: http://transparence.ambafrance-ml.org/
+  aim: 
+  audience:  
+  tech: 
+  source: 
+  github: 
+  creator: 
+  wishlist:  
+  status: 
+  documentation: 
+
+- name: IATI 2 LOD 
+  url: http://iati2lod.appspot.com/
+  aim: 
+  audience:  
+  tech: 
+  source: 
+  github: 
+  creator: 
+  wishlist:  
+  status: 
+  documentation: 
+
+- name: IATI CSV conversion tool
+  url: http://csvconverter.aidinfolabs.org
+  aim: 
+  audience:  
+  tech: 
+  source: 
+  github: 
+  creator: 
+  wishlist:  
+  status: 
+  documentation: 
+
+- name: IATI datastore tool
+  url: http://iatidatstore.herokuapp.com
+  aim: 
+  audience:  
+  tech: 
+  source: 
+  github: 
+  creator: 
+  wishlist:  
+  status: 
+  documentation: 
+
+- name: "IATID: FLOW"
+  url: http://iatid.com/Flow
+  aim: 
+  audience:  
+  tech: 
+  source: 
+  github: 
+  creator: 
+  wishlist:  
+  status: 
+  documentation: 
+
+- name: "Mali: Aide internationale et transparence"
+  url: http://mali.publishwhatyoufund.org/
+  aim: 
+  audience:  
+  tech: 
+  source: 
+  github: 
+  creator: 
+  wishlist:  
+  status: 
+  documentation: 
+
+- name: Mapping for results
+  url: http://maps.worldbank.org/
+  aim: 
+  audience:  
+  tech: 
+  source: 
+  github: 
+  creator: 
+  wishlist:  
+  status: 
+  documentation: 
+
+- name: Open Aid NL
+  url: http://www.openaid.nl/
+  aim: 
+  audience:  
+  tech: 
+  source: 
+  github: 
+  creator: 
+  wishlist:  
+  status: 
+  documentation: 
+
+- name: Open Aid Register
+  url: http://openaidregister.org
+  aim: 
+  audience:  
+  tech: 
+  source: 
+  github: 
+  creator: 
+  wishlist:  
+  status: 
+  documentation: 
+
+- name: Open Aid Search
+  url: http://www.openaidsearch.org/
+  aim: 
+  audience:  
+  tech: 
+  source: 
+  github: 
+  creator: 
+  wishlist:  
+  status: 
+  documentation: 
+
+- name: Open Aid Sweden
+  url: http://openaid.se/
+  aim: 
+  audience:  
+  tech: 
+  source: 
+  github: 
+  creator: 
+  wishlist:  
+  status: 
+  documentation: 
+    
+- name: Open UNDP 
+  url: http://open.undp.org/
+  aim: 
+  audience:  
+  tech: 
+  source: 
+  github: 
+  creator: 
+  wishlist:  
+  status: 
+  documentation: 
+
+- name: Open UNHabitat
+  url: http://open.unhabitat.org 
+  aim: 
+  audience:  
+  tech: 
+  source: 
+  github: 
+  creator: 
+  wishlist:  
+  status: 
+  documentation: 
+
+- name: Philippines Projects
+  url: http://pwyf.github.io/philippines
+  aim: 
+  audience:  
+  tech: 
+  source: 
+  github: 
+  creator: 
+  wishlist:  
+  status: 
+  documentation: 
+    
+- name: Tracking Chinese Development Finance to Africa
+  url: http://china.aiddata.org/map
+  aim: 
+  audience:  
+  tech: 
+  source: 
+  github: 
+  creator: 
+  wishlist:  
+  status: 
+  documentation: 
