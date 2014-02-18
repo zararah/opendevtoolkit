@@ -21,7 +21,9 @@ There were also some frank admissions within the report:
 
 <blockquote>“At the global level, we do not fully understand the relationship between what people need and the assistance they eventually get, which also depends on what resources are available, how they are prioritized by donors and aid organizations, and how effective assistance programmes are."</blockquote>
 
-Another admission came illustrated with this graph of assistance levels provided to the Sahel, <img src="/img/sahel_graph.png" alt="graph of sahel data" class="inlineleft"> along with levels of malnutrition: despite levels of official development assistance peaking hugely in 2006, it's unclear whether this had a direct affect upon levels of malnutrition in the country, and levels of undernourishment have continued to decline at a steady rate, despite (or because of?) aid flows. 
+<img src="/img/sahel_graph.png" alt="graph of sahel data">
+Another admission came illustrated with this graph of assistance levels provided to the Sahel
+ along with levels of malnutrition: despite levels of official development assistance peaking hugely in 2006, it's unclear whether this had a direct affect upon levels of malnutrition in the country, and levels of undernourishment have continued to decline at a steady rate, despite (or because of?) aid flows. 
 
 The solution suggested here: 
 
