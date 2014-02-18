@@ -43,6 +43,7 @@ Here are a few of our favourite reads (in no specific order) around the open dev
 ### Articles 
 
 * [Exploring Open Development](http://issuu.com/finnish-institute/docs/theopenbook_issuu_final/58) by Open Development Working Group members - see also the [video archive from OKFest 2012](http://open-development.okfn.org/2012/09/28/okfest-open-development-videos/)
+* [Annotated Bibliography on Aid Transparency](http://www.publishwhatyoufund.org/updates/news/annotated-bibliography-aid-transparency/), prepared by Rachel Rank of [Publish What You Fund](http://www.publishwhatyoufund.org/) - a very comprehensive (20 page) list of resources on aid transparency, with short summaries of each.
 
 ### Reports 
 
