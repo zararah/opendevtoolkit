@@ -1,16 +1,18 @@
 ### Contributing to the tools page 
 
-The tools page is written in [yaml](http://yaml.org/spec/). Please fill in **whichever fields you can** and, especially on the 'wishlist' field, the more suggestions, the better! 
+The tools page is written in [yaml](http://yaml.org/spec/). 
+
+To add a **new** tool to the page, please add at least the name of the tool and the URL.
+
+For tools already mentioned - please fill in **whichever fields you can** (whether you were involved directly in creating the tool or not).
 
 If you have a Github account, you can edit the file directly via Github [here](https://github.com/zararah/opendevtoolkit/blob/gh-pages/_data/tools.yml) just by clicking 'Edit'. 
-
-To add a **new** tool, please add at least the name of the tool and the URL.
 
 
 | Property | Expected Type | Description |
 | -------- | ------------- | ----------- |
-| **name** | Text | Name of tool - required|
-| **url** | URL | Project / tool URL - required |
+| **name** | Text | Name of tool* |
+| **url** | URL | Project / tool URL* |
 | **aim** | Text | What is the tool's aim? (ie. why was it created?) eg. to make it easy for people to understand where UK aid is being distributed |
 | **audience** | Text | Who are the end users/target audience of the tool? eg. citizens in the UK |
 | **tech** | Text | Programming languages / technologies that are used within the tool, eg. javascript, python, D3 |
@@ -20,6 +22,8 @@ To add a **new** tool, please add at least the name of the tool and the URL.
 | **wishlist** | Text | How would you (as the creator of the tool) or you (as a user of the tool) like to see the tool extended? Are there any features that you felt were missing? (Imagination recommended here!) |
 | **status** | Text | Production / beta / prototype / proof of concept |
 | **documentation** | URL | URL to any existing development documentation for the tool |
+
+*Required fields 
 
 This is an example, filled out for the proof of concept tool 'Organisation-ID-a-tron':
 
