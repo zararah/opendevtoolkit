@@ -35,7 +35,13 @@ Non-tech option: email [zara.rahman[at]okfn.org](mailto:zara.rahman@okfn.org)
 		{% endif %}
 	</dd>
 	<dt>Data source</dt>
-	<dd>{{ tool.source }}</dd>
+	<dd>{{ tool.source | join:", " }}
+		{% if tool.source %}
+			{{ tool.source | join:", " }}
+		{% else %}
+			<span class="txt-muted">Unknown</span>
+		{% endif %}
+	</dd>
 	<dt>Github repo</dt> 
 	<dd>{{ tool.github }}</dd>
 	<dt>Created by</dt>
