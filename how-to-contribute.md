@@ -11,16 +11,16 @@ If you have a Github account, you can edit the file directly via Github [here](h
 
 | Property | Expected Type | Description |
 | -------- | ------------- | ----------- |
-| **name** | Text | Name of tool* |
-| **url** | URL | Project / tool URL* |
-| **aim** | Text | What is the tool's aim? (ie. why was it created?) eg. to make it easy for people to understand where UK aid is being distributed |
-| **audience** | Text | Who are the end users/target audience of the tool? eg. citizens in the UK |
-| **tech** | Text | Programming languages / technologies that are used within the tool, eg. javascript, python, D3 |
-| **source** | Text or URL, written out in HTML | Either text describing the data source(s) that the tool draws upon, or if a link would be useful, please write out the URL in html eg. Partial list of prefixes <a href="http://docs.google.com/a/okfn.org/spreadsheet/ccc?key=0AnWngmdQt3stdFppMWdkcXJqVTRWTk9menR1N0FXNGc/">here</a> |
+| **name** * | Text | Name of tool |
+| **url** & | URL | Project / tool URL |
+| **aim** | Text | What is the tool's aim, or why was it created? eg. "to make it easy for people to understand where UK aid is being distributed" |
+| **audience** | Text | Who are the end users/target audience of the tool? eg. "citizens in the UK" |
+| **tech** | Text | Programming languages / technologies that are used within the tool, eg. "javascript, python, D3" |
+| **source** | Text or URL, written out in HTML | Either text describing the data source(s) that the tool draws upon, or if a link would be useful, please write out the URL in html |
 | **github** | URL | (If open source) URL of the Github repository, eg. https://github.com/zararah/opendevtoolkit |
 | **creator** | Text | The organisation/individual/institution who developed the tool, as specific as possible |
 | **wishlist** | Text | How would you (as the creator of the tool) or you (as a user of the tool) like to see the tool extended? Are there any features that you felt were missing? (Imagination recommended here!) |
-| **status** | Text | Production / beta / prototype / proof of concept |
+| **status** | Text | Production / beta / prototype / proof of concept / other |
 | **documentation** | URL | URL to any existing development documentation for the tool |
 
 *Required fields 
