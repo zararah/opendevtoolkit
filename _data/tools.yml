@@ -266,7 +266,7 @@
   - A tool to turn IATI IDs back into their component parts
   - Guidance on declaring relationships between different organisational IDs
   status: "Proof of concept, created at Developers for Development, Montreal, January 2014"
-  documentation: <a href="http://iatistandard.org/getting-started/organisation-data/organisation-identifiers/">Organisation Identifiers</a> 
+  documentation: http://iatistandard.org/getting-started/organisation-data/organisation-identifiers/
 
 - name: Philippines Projects
   url: http://pwyf.github.io/philippines
