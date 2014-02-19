@@ -9,11 +9,16 @@ isresource: true
 
 *This page is currently a work in progress, pending community contributions + filling in the information below*
 
-We're currently working with the wonderful [School of Data](http://schoolofdata.org) to create a dynamic tools showroom, to make it as easy as possible to find the aid data tool that you need. In the meantime, we're working on gathering information and data about all the tools that are already out there, and we'd love your help! 
+We're currently working with the wonderful [School of Data](http://schoolofdata.org) to create a dynamic tools showroom, to make it as easy as possible to find the aid data tool that you need. 
 
-If you know the answer to any of the missing fields below, please let us know.
-Tech option: [submit a pull request directly on github](https://github.com/zararah/opendevtoolkit/blob/gh-pages/resources/online-iati-tools.md)
-Non-tech option: email [zara.rahman[at]okfn.org](mailto:zara.rahman@okfn.org)
+In the meantime, we're working on gathering information and data about all the tools that are already out there, and **we'd love your help.**
+
+To contribute: 
+
+* Non-tech option: email [zara.rahman[at]okfn.org](mailto:zara.rahman@okfn.org) stating clearly which tool(s) you're emailing about, and which fields you'd like to fill in. 
+* Tech option: This page is [here on Github](https://github.com/zararah/opendevtoolkit/blob/gh-pages/_data/tools.yml) - please add information directly to the page, then submit a pull request. 
+
+**Thank you!**
 
 {% for tool in site.data.tools %}
 <h4>{{ tool.name }}</h4>
