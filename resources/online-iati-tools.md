@@ -21,8 +21,15 @@ Tech option: see this [How to contribute to the tools page readme](https://githu
 
 **Thank you!**
 
+### Contents
+<ul>
 {% for tool in site.data.tools %}
-<h4>{{ tool.name }}</h4>
+<li> <a href="#{{ tool.slug }}">{{ tool.name }}</a></li>
+{% endfor %}
+</ul>
+
+{% for tool in site.data.tools %}
+<h4 id="{{ tool.slug }}">{{ tool.name }}</h4>
 <dl class="dl-horizontal">
  <dt>URL</dt>
   <dd>
