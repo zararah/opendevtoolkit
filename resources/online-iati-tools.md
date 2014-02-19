@@ -32,7 +32,6 @@ Non-tech option: email [zara.rahman[at]okfn.org](mailto:zara.rahman@okfn.org)
 	</dd>
 	<dd>{{ tool.aim }}</dd>
 	<dt>Target audience</dt>
-	<dd>{{ tool.audience }}</dd>  
 	<dd>
 		{% if tool.audience %}
 			{{ tool.audience }}
@@ -49,7 +48,7 @@ Non-tech option: email [zara.rahman[at]okfn.org](mailto:zara.rahman@okfn.org)
 		{% endif %}
 	</dd>
 	<dt>Data source</dt>
-	<dd>{{ tool.source | join:", " }}
+	<dd>
 		{% if tool.source %}
 			{{ tool.source | join:", " }}
 		{% else %}
@@ -66,9 +65,6 @@ Non-tech option: email [zara.rahman[at]okfn.org](mailto:zara.rahman@okfn.org)
 	</dd>	
 	<dd>{{ tool.github }}</dd>
 	<dt>Created by</dt>
-	<dd>{{ tool.creator }}</dd>
-	<dt>Developer wishlist</dt>
-	<dd>{{ tool.wishlist }}</dd>
 	<dd>
 		{% if tool.creator %}
 			{{ tool.creator }}
@@ -85,7 +81,6 @@ Non-tech option: email [zara.rahman[at]okfn.org](mailto:zara.rahman@okfn.org)
 		{% endif %}
 	</dd>
 	<dt>Status</dt>
-	<dd>{{ tool.status }}</dd>
 	<dd>
 		{% if tool.status %}
 			{{ tool.status }}
@@ -94,7 +89,6 @@ Non-tech option: email [zara.rahman[at]okfn.org](mailto:zara.rahman@okfn.org)
 		{% endif %}
 	</dd>
 	<dt>Documentation</dt>
-	<dd>{{ tool.documentation }}</dd>
 	<dd>
 		{% if tool.documentation %}
 			{{ tool.documentation }}
