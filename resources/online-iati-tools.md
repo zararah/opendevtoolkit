@@ -62,7 +62,6 @@ Non-tech option: email [zara.rahman[at]okfn.org](mailto:zara.rahman@okfn.org)
 			<span class="txt-muted">Not applicable- closed source</span>
 		{% endif %}
 	</dd>	
-	<dd>{{ tool.github }}</dd>
 	<dt>Created by</dt>
 	<dd>
 		{% if tool.creator %}
