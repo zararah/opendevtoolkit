@@ -12,7 +12,7 @@ If you have a Github account, you can edit the file directly via Github [here](h
 | Property | Expected Type | Description |
 | -------- | ------------- | ----------- |
 | **name** * | Text | Name of tool |
-| **url** & | URL | Project / tool URL |
+| **url** * | URL | Project / tool URL |
 | **aim** | Text | What is the tool's aim, or why was it created? eg. "to make it easy for people to understand where UK aid is being distributed" |
 | **audience** | Text | Who are the end users/target audience of the tool? eg. "citizens in the UK" |
 | **tech** | Text | Programming languages / technologies that are used within the tool, eg. "javascript, python, D3" |
