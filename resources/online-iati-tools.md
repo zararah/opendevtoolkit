@@ -74,6 +74,7 @@ Non-tech option: email [zara.rahman[at]okfn.org](mailto:zara.rahman@okfn.org)
 	<dd>
 		{% if tool.wishlist %}
 			{{ tool.wishlist }}
+			{{ tool.wishlist | join:"<br> * " }}
 		{% else %}
 			<span class="txt-muted">[to be completed]</span>
 		{% endif %}
