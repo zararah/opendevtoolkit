@@ -45,7 +45,7 @@ Non-tech option: email [zara.rahman[at]okfn.org](mailto:zara.rahman@okfn.org)
 		{% if tool.tech %}
 			{{ tool.tech }}
 		{% else %}
-			<span class="txt-muted">Unknown</span>
+			<span class="txt-muted">[to be completed]</span>
 		{% endif %}
 	</dd>
 	<dt>Data source</dt>
@@ -53,7 +53,7 @@ Non-tech option: email [zara.rahman[at]okfn.org](mailto:zara.rahman@okfn.org)
 		{% if tool.source %}
 			{{ tool.source | join:", " }}
 		{% else %}
-			<span class="txt-muted">Unknown</span>
+			<span class="txt-muted">[to be completed]</span>
 		{% endif %}
 	</dd>
 	<dt>Github repo</dt> 
