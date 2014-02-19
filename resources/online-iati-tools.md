@@ -95,6 +95,13 @@ Non-tech option: email [zara.rahman[at]okfn.org](mailto:zara.rahman@okfn.org)
 	</dd>
 	<dt>Documentation</dt>
 	<dd>{{ tool.documentation }}</dd>
+	<dd>
+		{% if tool.documentation %}
+			{{ tool.documentation }}
+		{% else %}
+			<span class="txt-muted">[to be completed]</span>
+		{% endif %}
+	</dd>
 </dl>
 {% endfor %}
 
