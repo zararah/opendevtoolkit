@@ -1,4 +1,5 @@
 - name: Aid Data Beta
+  slug: aid-data-beta
   url: http://www.aiddata.org
   aim: "Use quick stats to search for information about a donor, country, sector and more."
   audience:  
@@ -11,6 +12,7 @@
   documentation: 
 
 - name: Aid Flows
+  slug: aid-flows
   url: http://www.aidflows.org/
   aim: " visualizes how much development aid is provided and received around the world"
   audience: publishers  
@@ -25,6 +27,7 @@
   documentation: 
 
 - name: Aid Stream
+	slug: aid-stream
   url: http://aidstream.org
   aim: 
   audience:  
@@ -37,6 +40,7 @@
   documentation: 
 
 - name: "Aid Transparency Tracker: data quality"
+	slug: aid-transparency-tracker-data-quality
   url: http://tracker.publishwhatyoufund.org/
   aim: 
   audience:  
@@ -49,6 +53,7 @@
   documentation: 
 
 - name: "Aid Transparency Tracker: IATI updates"
+	slug: aid-transparency-tracker-iati-updates
   url: http://tracker.publishwhatyoufund.org/iatiupdates/
   aim: 
   audience:  
