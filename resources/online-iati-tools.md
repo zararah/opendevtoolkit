@@ -25,7 +25,7 @@ To contribute:
 <dl class="dl-horizontal">
  <dt>URL</dt>
   <dd>
-  	<a href="{{ tool.url }}">Website</a>
+  	<a href="{{ tool.url }}">{{ tool.url }}</a>
   </dd>	
 	<dt>Aim of tool</dt>
 	<dd>
