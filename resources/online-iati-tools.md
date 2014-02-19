@@ -62,6 +62,13 @@ Non-tech option: email [zara.rahman[at]okfn.org](mailto:zara.rahman@okfn.org)
 	<dd>{{ tool.creator }}</dd>
 	<dt>Developer wishlist</dt>
 	<dd>{{ tool.wishlist }}</dd>
+	<dd>
+		{% if tool.creator %}
+			{{ tool.creator }}
+		{% else %}
+			<span class="txt-muted">[to be completed]</span>
+		{% endif %}
+	</dd>
 	<dt>Status</dt>
 	<dd>{{ tool.status }}</dd>
 	<dt>Documentation</dt>
