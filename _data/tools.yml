@@ -16,7 +16,7 @@
   audience: publishers  
   tech: 
   source: 
-  - world bank 
+  - World Bank 
   - OECD/DAC database 
   github: 
   creator: "OECD, the World Bank, the Asian Development Bank and the Inter-American Development Bank"
@@ -227,7 +227,7 @@
   wishlist:  
   status: 
   documentation: 
-    
+
 - name: Open UNDP 
   url: http://open.undp.org/
   aim: 
@@ -252,6 +252,22 @@
   status: 
   documentation: 
 
+- name: Organisation-ID-a-tron
+  url: http://practicalparticipation.github.io/organisation-id-tool/
+  aim: to help publishers of data to the International Aid Transparency Initiative, and related standards, to identify the Organisation Identifier they should use, based on the draft Organisational Identifier Conventions.
+  audience: IATI publishers 
+  tech: 
+  source: Partial list of prefixes maintained <a href="http://docs.google.com/a/okfn.org/spreadsheet/ccc?key=0AnWngmdQt3stdFppMWdkcXJqVTRWTk9menR1N0FXNGc/">here</a>
+  github: https://github.com/practicalparticipation/organisation-id-tool/
+  creator: Tim Davies
+  wishlist: 
+  - A form for suggesting new prefixes
+  - Validation tools to check IDs - where a resolution service is available and documented in the prefix source file
+  - A tool to turn IATI IDs back into their component parts
+  - Guidance on declaring relationships between different organisational IDs
+  status: "Proof of concept, created at Developers for Development, Montreal, January 2014"
+  documentation: <a href="http://iatistandard.org/getting-started/organisation-data/organisation-identifiers/">Organisation Identifiers</a> 
+
 - name: Philippines Projects
   url: http://pwyf.github.io/philippines
   aim: 
@@ -263,7 +279,7 @@
   wishlist:  
   status: 
   documentation: 
-    
+
 - name: Tracking Chinese Development Finance to Africa
   url: http://china.aiddata.org/map
   aim: 
