@@ -23,6 +23,13 @@ Non-tech option: email [zara.rahman[at]okfn.org](mailto:zara.rahman@okfn.org)
   	<a href="{{ tool.url }}">Website</a>
   </dd>	
 	<dt>Aim of tool</dt>
+	<dd>
+		{% if tool.aim %}
+			{{ tool.aim }}
+		{% else %}
+			<span class="txt-muted">[to be completed]</span>
+		{% endif %}
+	</dd>
 	<dd>{{ tool.aim }}</dd>
 	<dt>Target audience</dt>
 	<dd>{{ tool.audience }}</dd>  
