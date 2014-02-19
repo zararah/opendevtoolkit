@@ -1,24 +1,26 @@
 - name: Aid Data Beta
   url: http://www.aiddata.org
-  aim: 
+  aim: "Use quick stats to search for information about a donor, country, sector and more."
   audience:  
   tech: 
   source: 
   github: 
-  creator: 
+  creator: Aid Data 
   wishlist:  
-  status: 
+  status: Beta 
   documentation: 
 
 - name: Aid Flows
   url: http://www.aidflows.org/
-  aim: to help publishers
+  aim: " visualizes how much development aid is provided and received around the world"
   audience: publishers  
   tech: 
-  source: world bank
+  source: 
+  - world bank 
+  - OECD/DAC database 
   github: 
-  creator: aidflows
-  wishlist: quicker 
+  creator: "OECD, the World Bank, the Asian Development Bank and the Inter-American Development Bank"
+  wishlist: 
   status: beta
   documentation: 
 
@@ -29,7 +31,7 @@
   tech: 
   source: 
   github: 
-  creator: 
+  creator: YIPL
   wishlist:  
   status: 
   documentation: 
