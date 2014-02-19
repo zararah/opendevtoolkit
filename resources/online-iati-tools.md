@@ -50,6 +50,13 @@ Non-tech option: email [zara.rahman[at]okfn.org](mailto:zara.rahman@okfn.org)
 		{% endif %}
 	</dd>
 	<dt>Github repo</dt> 
+	<dd>
+		{% if tool.github %}
+			<a href="{{ tool.github }}">Github URL</a>
+		{% else %}
+			<span class="txt-muted">Not applicable- closed source</span>
+		{% endif %}
+	</dd>	
 	<dd>{{ tool.github }}</dd>
 	<dt>Created by</dt>
 	<dd>{{ tool.creator }}</dd>
