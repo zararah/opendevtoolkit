@@ -15,8 +15,9 @@ In the meantime, we're working on gathering information and data about all the t
 
 To contribute: 
 
-* Non-tech option: email [zara.rahman[at]okfn.org](mailto:zara.rahman@okfn.org) stating clearly which tool(s) you're emailing about, and which fields you'd like to fill in. 
-* Tech option: This page is [here on Github](https://github.com/zararah/opendevtoolkit/blob/gh-pages/_data/tools.yml) - please add information directly to the page, then submit a pull request. 
+Non-tech option: email [zara.rahman[at]okfn.org](mailto:zara.rahman@okfn.org) stating clearly which tool(s) you're emailing about, and which fields you'd like to fill in. 
+
+Tech option: see this [How to contribute to the tools page readme](https://github.com/zararah/opendevtoolkit/blob/gh-pages/how-to-contribute.md)
 
 **Thank you!**
 
@@ -94,11 +95,10 @@ To contribute:
 	<dt>Documentation</dt>
 	<dd>
 		{% if tool.documentation %}
-			{{ tool.documentation }}
+			<a href="{{ tool.documentation }}">Documentation URL</a>
 		{% else %}
 			<span class="txt-muted">[to be completed]</span>
 		{% endif %}
 	</dd>
 </dl>
 {% endfor %}
-
