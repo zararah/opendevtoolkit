@@ -26,8 +26,14 @@ Non-tech option: email [zara.rahman[at]okfn.org](mailto:zara.rahman@okfn.org)
 	<dd>{{ tool.aim }}</dd>
 	<dt>Target audience</dt>
 	<dd>{{ tool.audience }}</dd>  
-	<dt>Tech used</dt>
-	<dd>{{ tool.tech }}</dd>
+	<dt>Tech used</dt>		
+	<dd>
+		{% if tool.tech %}
+			{{ tool.tech }}
+		{% else %}
+			<span class="txt-muted">Unknown</span>
+		{% endif %}
+	</dd>
 	<dt>Data source</dt>
 	<dd>{{ tool.source }}</dd>
 	<dt>Github repo</dt> 
