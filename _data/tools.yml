@@ -27,7 +27,7 @@
   documentation: 
 
 - name: Aid Stream
-	slug: aid-stream
+  slug: aid-stream
   url: http://aidstream.org
   aim: 
   audience:  
@@ -40,7 +40,7 @@
   documentation: 
 
 - name: "Aid Transparency Tracker: data quality"
-	slug: aid-transparency-tracker-data-quality
+  slug: aid-transparency-tracker-data-quality
   url: http://tracker.publishwhatyoufund.org/
   aim: 
   audience:  
@@ -53,7 +53,7 @@
   documentation: 
 
 - name: "Aid Transparency Tracker: IATI updates"
-	slug: aid-transparency-tracker-iati-updates
+  slug: aid-transparency-tracker-iati-updates
   url: http://tracker.publishwhatyoufund.org/iatiupdates/
   aim: 
   audience:  
@@ -66,6 +66,7 @@
   documentation: 
 
 - name: "Aid Transparency Tracker: implementation schedules"
+  slug: aid-transparency-tracker-implementation
   url: http://tracker.publishwhatyoufund.org/plan/
   aim: 
   audience:  
@@ -78,6 +79,7 @@
   documentation: 
 
 - name: AidView 
+  slug: aidview
   url: http://www.aidview.net/
   aim: 
   audience:  
@@ -90,6 +92,7 @@
   documentation: 
 
 - name: Development Tracker
+  slug: dev-tracker
   url: http://devtracker.dfid.gov.uk/
   aim: 
   audience:  
@@ -102,6 +105,7 @@
   documentation: 
 
 - name: L'aide française au Mali
+  slug: transparence-ambafrance
   url: http://transparence.ambafrance-ml.org/
   aim: 
   audience:  
@@ -114,6 +118,7 @@
   documentation: 
 
 - name: IATI 2 LOD 
+  slug: iati-to-lod
   url: http://iati2lod.appspot.com/
   aim: 
   audience:  
@@ -126,6 +131,7 @@
   documentation: 
 
 - name: IATI CSV conversion tool
+  slug: iati-to-csv
   url: http://csvconverter.aidinfolabs.org
   aim: 
   audience:  
@@ -138,6 +144,7 @@
   documentation: 
 
 - name: IATI datastore tool
+  slug: iati-datastore-tool
   url: http://iatidatstore.herokuapp.com
   aim: 
   audience:  
@@ -150,6 +157,7 @@
   documentation: 
 
 - name: "IATID: FLOW"
+  slug: iatid-flow
   url: http://iatid.com/Flow
   aim: 
   audience:  
@@ -162,6 +170,7 @@
   documentation: 
 
 - name: "Mali: Aide internationale et transparence"
+  slug: mali-publishwhatyoufund
   url: http://mali.publishwhatyoufund.org/
   aim: 
   audience:  
@@ -174,6 +183,7 @@
   documentation: 
 
 - name: Mapping for results
+  slug: mapping-for-results
   url: http://maps.worldbank.org/
   aim: 
   audience:  
@@ -186,6 +196,7 @@
   documentation: 
 
 - name: Open Aid NL
+  slug: open-aid-nl
   url: http://www.openaid.nl/
   aim: 
   audience:  
@@ -198,6 +209,7 @@
   documentation: 
 
 - name: Open Aid Register
+  slug: open-aid-register
   url: http://openaidregister.org
   aim: 
   audience:  
@@ -210,6 +222,7 @@
   documentation: 
 
 - name: Open Aid Search
+  slug: open-aid-search
   url: http://www.openaidsearch.org/
   aim: 
   audience:  
@@ -222,6 +235,7 @@
   documentation: 
 
 - name: Open Aid Sweden
+  slug: open-aid-sweden
   url: http://openaid.se/
   aim: 
   audience:  
@@ -234,6 +248,7 @@
   documentation: 
 
 - name: Open UNDP 
+  slug: open-undp
   url: http://open.undp.org/
   aim: 
   audience:  
@@ -246,6 +261,7 @@
   documentation: 
 
 - name: Open UNHabitat
+  slug: open-unhabitat
   url: http://open.unhabitat.org 
   aim: 
   audience:  
@@ -258,6 +274,7 @@
   documentation: 
 
 - name: Organisation-ID-a-tron
+  slug: organisation-id-a-tron
   url: http://practicalparticipation.github.io/organisation-id-tool/
   aim: "To help publishers of data to the International Aid Transparency Initiative, and related standards, to identify the Organisation Identifier they should use, based on the draft Organisational Identifier Conventions."
   audience: IATI publishers 
@@ -274,6 +291,7 @@
   documentation: http://iatistandard.org/getting-started/organisation-data/organisation-identifiers/
 
 - name: Philippines Projects
+  slug: philippines-projects
   url: http://pwyf.github.io/philippines
   aim: 
   audience:  
@@ -286,6 +304,7 @@
   documentation: 
 
 - name: Tracking Chinese Development Finance to Africa
+  slug: china-aiddata
   url: http://china.aiddata.org/map
   aim: 
   audience:  
