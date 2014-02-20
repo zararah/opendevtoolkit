@@ -150,7 +150,7 @@ li {
     margin: 0 0 10px 10px;
 }
 .navigation li a {
-    padding: 0px 0px;
+    padding: 10px 10px;
     background: #2C4C9C;
     font-size: 1.2em;
     color: #FFF;
