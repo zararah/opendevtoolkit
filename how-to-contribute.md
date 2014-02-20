@@ -1,4 +1,4 @@
-### Contributing to the tools page 
+### Contributing to the [IATI tools](http://opendevtoolkit.net/resources/online-iati-tools.html) page 
 
 The tools page is written in [yaml](http://yaml.org/spec/). 
 
