@@ -29,9 +29,9 @@
 - name: Aid Stream
   slug: aid-stream
   url: http://aidstream.org
-  aim: 
+  aim: Allows organisations to fill in a form and publish their data
   audience:  
-  tech: 
+  tech: php
   source: 
   github: 
   creator: YIPL
@@ -41,13 +41,13 @@
 
 - name: "Aid Transparency Tracker: data quality"
   slug: aid-transparency-tracker-data-quality
-  url: http://tracker.publishwhatyoufund.org/
-  aim: 
+  url: http://tracker.publishwhatyoufund.org/publish/ 
+  aim: To collect information on data quality within IATI
   audience:  
-  tech: 
-  source: 
-  github: 
-  creator: 
+  tech: Python
+  source: IATI register
+  github: https://github.com/markbrough/IATI-Data-Quality
+  creator: "Mark Brough, Publish What You Fund, Martin Keegan, Ben Webb"
   wishlist:  
   status: 
   documentation: 
@@ -55,11 +55,11 @@
 - name: "Aid Transparency Tracker: IATI updates"
   slug: aid-transparency-tracker-iati-updates
   url: http://tracker.publishwhatyoufund.org/iatiupdates/
-  aim: 
+  aim: "To make it easier and more accessible to find out whether files have changed"
   audience:  
   tech: 
-  source: 
-  github: 
+  source: IATI register
+  github: http://github.com/markbrough/IATI-Updates
   creator: 
   wishlist:  
   status: 
@@ -68,11 +68,11 @@
 - name: "Aid Transparency Tracker: implementation schedules"
   slug: aid-transparency-tracker-implementation
   url: http://tracker.publishwhatyoufund.org/plan/
-  aim: 
+  aim: To allow analysis and comparison of donors' implementation schedules 
   audience:  
   tech: 
-  source: 
-  github: 
+  source: IATI register
+  github: http://github.com/markbrough/IATI-Implementation-Schedules
   creator: 
   wishlist:  
   status: 
@@ -85,8 +85,8 @@
   audience:  
   tech: 
   source: 
-  github: 
-  creator: 
+  github: https://github.com/whiteoctober/IATI
+  creator: "White October, Kit Wallace"
   wishlist:  
   status: 
   documentation: 
@@ -97,9 +97,11 @@
   aim: 
   audience:  
   tech: 
-  source: 
-  github: 
-  creator: 
+  - JavaScript
+  - Scala
+  source: IATI data
+  github: https://github.com/DFID/devtracker-new/wiki
+  creator: DFID
   wishlist:  
   status: 
   documentation: 
@@ -111,21 +113,21 @@
   audience:  
   tech: 
   source: 
-  github: 
-  creator: 
+  github: https://github.com/okfn/piati
+  creator: Open Knowledge Foundation
   wishlist:  
-  status: 
+  status: Production
   documentation: 
 
 - name: IATI 2 LOD 
   slug: iati-to-lod
   url: http://iati2lod.appspot.com/
-  aim: 
+  aim: "To show the added benefits of Linked Data by linking the IATI dataset to various other datasets such as World Bank indicators and DBPedia information"
   audience:  
   tech: 
   source: 
   github: 
-  creator: 
+  creator: Kasper Brandt
   wishlist:  
   status: 
   documentation: 
@@ -133,12 +135,12 @@
 - name: IATI CSV conversion tool
   slug: iati-to-csv
   url: http://csvconverter.aidinfolabs.org
-  aim: 
+  aim: To allow organisations to upload a spreadsheet of their data and publish it; making it easier!
   audience:  
-  tech: 
+  tech: CoffeeScript (JS) and Python
   source: 
   github: 
-  creator: 
+  creator: Mark Brough and Ben Webb
   wishlist:  
   status: 
   documentation: 
@@ -201,9 +203,11 @@
   aim: 
   audience:  
   tech: 
+  - Python
+  - Django
   source: 
   github: 
-  creator: 
+  creator: "Zimmerman and Zimmerman, Akvo"
   wishlist:  
   status: 
   documentation: 
@@ -211,7 +215,7 @@
 - name: Open Aid Register
   slug: open-aid-register
   url: http://openaidregister.org
-  aim: 
+  aim: To speed up the process of publishing to IATI 
   audience:  
   tech: 
   source: 
@@ -252,10 +256,10 @@
   url: http://open.undp.org/
   aim: 
   audience:  
-  tech: 
-  source: 
+  tech: JavaScript
+  source: UNDP data
   github: 
-  creator: 
+  creator: Development Seed
   wishlist:  
   status: 
   documentation: 
@@ -265,10 +269,10 @@
   url: http://open.unhabitat.org 
   aim: 
   audience:  
-  tech: 
-  source: 
+  tech: Python / Django 
+  source: UNHabitat data + IATI data
   github: 
-  creator: 
+  creator: "Zimmerman and Zimmerman, Akvo"
   wishlist:  
   status: 
   documentation: 
