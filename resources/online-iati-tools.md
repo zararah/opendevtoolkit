@@ -54,7 +54,7 @@ Tech option: see this [How to contribute to the tools page readme](https://githu
 	<dt>Tech used</dt>		
 	<dd>
 		{% if tool.tech %}
-			{{ tool.tech }}
+			{{ tool.tech | join:", " }}
 		{% else %}
 			<span class="txt-muted">[to be completed]</span>
 		{% endif %}
