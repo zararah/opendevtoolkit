@@ -25,7 +25,7 @@ If you have a Github account, you can edit the file directly via Github [here](h
 
 *Required fields 
 
-This is an example, filled out for the proof of concept tool 'Organisation-ID-a-tron':
+This is an example, filled out for the proof of concept tool 'Organisation-ID-a-tron' - it appears [like this](http://opendevtoolkit.net/resources/online-iati-tools.html#organisation-id-a-tron) on the tools page. 
 
 [yml]
 ```yaml
