@@ -81,26 +81,32 @@
 - name: AidView 
   slug: aidview
   url: http://www.aidview.net/
-  aim: 
+  aim: "Visualising global aid activities from 227 Organisations; allows filter by Sector, organisation, country or search"
   audience:  
-  tech: 
-  source: 
+  tech:
+  - Node.JS
+  - Heroku 
+  - underscore.js
+  - express.js 
+  - HTML Boilerplate
+  - jQuery
+  source: IATI registry
   github: https://github.com/whiteoctober/IATI
-  creator: "White October, Kit Wallace"
+  creator: "White October, Chris Wallace"
   wishlist:  
-  status: 
+  status: Alpha 
   documentation: 
 
 - name: Development Tracker
   slug: dev-tracker
   url: http://devtracker.dfid.gov.uk/
-  aim: 
-  audience:  
+  aim: To allow the user to find and explore detailed information on international development projects funded by the UK Government
+  audience: 
   tech: 
   - JavaScript
   - Scala
-  source: IATI data
-  github: https://github.com/DFID/devtracker-new/wiki
+  source: Open data published by UK Government and partners via IATI data
+  github: https://github.com/DFID/aid-platform-beta
   creator: DFID
   wishlist:  
   status: 
@@ -109,13 +115,13 @@
 - name: L'aide française au Mali
   slug: transparence-ambafrance
   url: http://transparence.ambafrance-ml.org/
-  aim: 
-  audience:  
+  aim: To visualise + explore foreign aid to Mali 
+  audience: 
   tech: 
   source: 
   github: https://github.com/okfn/piati
-  creator: Open Knowledge Foundation
-  wishlist:  
+  creator: "Open Knowledge Foundation, Yohan Boniface, Mark Brough"
+  wishlist: 
   status: Production
   documentation: 
 
@@ -123,7 +129,7 @@
   slug: iati-to-lod
   url: http://iati2lod.appspot.com/
   aim: "To show the added benefits of Linked Data by linking the IATI dataset to various other datasets such as World Bank indicators and DBPedia information"
-  audience:  
+  audience: 
   tech: 
   source: 
   github: 
@@ -135,20 +141,20 @@
 - name: IATI CSV conversion tool
   slug: iati-to-csv
   url: http://csvconverter.aidinfolabs.org
-  aim: To allow organisations to upload a spreadsheet of their data and publish it; making it easier!
-  audience:  
+  aim: To make publication to IATI less labour-intensive and significantly increase capacity to publish more data from more organisations.
+  audience: "Organisations that have too many projects to enter manually into a web-entry platform, but not enough projects to have in-house technical support that could help with implementation"
   tech: CoffeeScript (JS) and Python
-  source: 
-  github: 
+  source: IATI data
+  github: https://github.com/IATI/CSV2IATI
   creator: Mark Brough and Ben Webb
   wishlist:  
-  status: 
-  documentation: 
+  status: Production
+  documentation: http://csv2iati.iatistandard.org/docs/user_guide.html
 
 - name: IATI datastore tool
   slug: iati-datastore-tool
-  url: http://iatidatstore.herokuapp.com
-  aim: 
+  url: https://iati-datastore.herokuapp.com/
+  aim: To gather all data published to the IATI standard into a single queryable source
   audience:  
   tech: 
   source: 
@@ -156,19 +162,19 @@
   creator: 
   wishlist:  
   status: 
-  documentation: 
+  documentation: http://iatistandard.org/datastore/
 
 - name: "IATID: FLOW"
   slug: iatid-flow
   url: http://iatid.com/Flow
-  aim: 
+  aim: "designed to visualise and explore the IATI data"
   audience:  
   tech: 
-  source: 
+  source: IATI registry
   github: 
-  creator: 
+  creator: Aidan Berentsen (at UNOPS?)
   wishlist:  
-  status: 
+  status: beta
   documentation: 
 
 - name: "Mali: Aide internationale et transparence"
