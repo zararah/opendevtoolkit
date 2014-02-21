@@ -117,6 +117,7 @@ body {
 }
 li {
     list-style: square;
+    list-style-position: inside;
 }
 #quotes .row-fluid:first-child {
     margin-bottom: 20px;
