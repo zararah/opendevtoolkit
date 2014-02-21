@@ -26,8 +26,8 @@
   status: beta
   documentation: 
 
-- name: Aid Stream
-  slug: aid-stream
+- name: AidStream
+  slug: aidstream
   url: http://aidstream.org
   aim: Allows organisations to fill in a form and publish their data
   audience:  
@@ -45,7 +45,7 @@
   aim: To collect information on data quality within IATI
   audience:  
   tech: Python
-  source: IATI register
+  source: IATI registry
   github: https://github.com/markbrough/IATI-Data-Quality
   creator: "Mark Brough, Publish What You Fund, Martin Keegan, Ben Webb"
   wishlist:  
@@ -58,7 +58,7 @@
   aim: "To make it easier and more accessible to find out whether files have changed"
   audience:  
   tech: 
-  source: IATI register
+  source: IATI registry
   github: http://github.com/markbrough/IATI-Updates
   creator: 
   wishlist:  
@@ -71,7 +71,7 @@
   aim: To allow analysis and comparison of donors' implementation schedules 
   audience:  
   tech: 
-  source: IATI register
+  source: IATI registry
   github: http://github.com/markbrough/IATI-Implementation-Schedules
   creator: 
   wishlist:  
@@ -138,9 +138,9 @@
   status: 
   documentation: 
 
-- name: IATI CSV conversion tool
-  slug: iati-to-csv
-  url: http://csvconverter.aidinfolabs.org
+- name: CSV2IATI
+  slug: csv2iati
+  url: http://csv2iati.iatistandard.org/ 
   aim: To make publication to IATI less labour-intensive and significantly increase capacity to publish more data from more organisations.
   audience: "Organisations that have too many projects to enter manually into a web-entry platform, but not enough projects to have in-house technical support that could help with implementation"
   tech: CoffeeScript (JS) and Python
@@ -158,7 +158,7 @@
   audience:  
   tech: 
   source: 
-  github: 
+  github: https://github.com/IATI/iati-datastore
   creator: 
   wishlist:  
   status: 
