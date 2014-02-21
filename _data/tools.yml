@@ -112,6 +112,24 @@
   status: 
   documentation: 
 
+- name: data.unops.org
+  slug: data-unops-org
+  url: http://data.unops.org/index.htm
+  aim: "To allow users to explore all of UNOPS currently running projects, alongside open UN system procurement data"
+  - Scala
+  audience: "The general public, partner organizations, beneficiaries, media"
+  tech:
+  - JavaScript
+  - JSON
+  - RESTful web services
+  - SQL
+  source: UNOPS management workspace operational data which consolidates enterprise reporting platform data and other systems
+  github: https://github.com/DFID/aid-platform-beta
+  creator: UNOPS ICT Enterprise Reporting Team
+  wishlist:
+  status: 
+  documentation: 
+
 - name: L'aide française au Mali
   slug: transparence-ambafrance
   url: http://transparence.ambafrance-ml.org/
