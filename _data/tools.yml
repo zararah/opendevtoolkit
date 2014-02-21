@@ -116,7 +116,6 @@
   slug: data-unops-org
   url: http://data.unops.org/index.htm
   aim: "To allow users to explore all of UNOPS currently running projects, alongside open UN system procurement data"
-  - Scala
   audience: "The general public, partner organizations, beneficiaries, media"
   tech:
   - JavaScript
@@ -124,7 +123,7 @@
   - RESTful web services
   - SQL
   source: UNOPS management workspace operational data which consolidates enterprise reporting platform data and other systems
-  github: https://github.com/DFID/aid-platform-beta
+  github: 
   creator: UNOPS ICT Enterprise Reporting Team
   wishlist:
   status: 
