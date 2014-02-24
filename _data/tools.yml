@@ -186,7 +186,10 @@
   url: http://iatid.com/Flow
   aim: "designed to visualise and explore the IATI data"
   audience:  
-  tech: 
+  tech:
+  - flot
+  - jquery
+  - jvectormap
   source: IATI registry
   github: 
   creator: Aidan Berentsen
