@@ -223,7 +223,7 @@
   creator: "Zimmerman and Zimmerman, Akvo"
   wishlist:  
   status: Production 
-  documentation: FAQs here: http://www.openaid.nl/faq/
+  documentation: http://www.openaid.nl/faq/
 
 - name: Open Aid Register
   slug: open-aid-register
@@ -247,7 +247,7 @@
   tech: 
   source: IATI registry
   github: 
-  creator: 
+  creator: "Zimmerman and Zimmerman, Akvo"
   wishlist:  
   status: 
   documentation: Production
