@@ -197,19 +197,6 @@
   status: beta
   documentation: 
 
-- name: "Mali: Aide internationale et transparence"
-  slug: mali-publishwhatyoufund
-  url: http://mali.publishwhatyoufund.org/
-  aim: 
-  audience:  
-  tech: 
-  source: 
-  github: 
-  creator: 
-  wishlist:  
-  status: 
-  documentation: 
-
 - name: Mapping for results
   slug: mapping-for-results
   url: http://maps.worldbank.org/
@@ -226,17 +213,17 @@
 - name: Open Aid NL
   slug: open-aid-nl
   url: http://www.openaid.nl/
-  aim: 
-  audience:  
+  aim: To visualise aid projects funded by the Dutch Ministry of Foreign Affairs
+  audience: Dutch public  
   tech: 
   - Python
   - Django
-  source: 
+  source: IATI data published by the Dutch Ministry of Foreign Affairs
   github: 
   creator: "Zimmerman and Zimmerman, Akvo"
   wishlist:  
-  status: 
-  documentation: 
+  status: Production 
+  documentation: FAQs here: http://www.openaid.nl/faq/
 
 - name: Open Aid Register
   slug: open-aid-register
