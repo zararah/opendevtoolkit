@@ -228,12 +228,13 @@
 - name: Open Aid Register
   slug: open-aid-register
   url: http://openaidregister.org
-  aim: To speed up the process of publishing to IATI 
+  aim: To speed up the process of publishing to IATI; it helps NGOs easily convert aid data to IATI standard.
   audience:  
-  tech: 
+  tech:
+  - CartoDB 
   source: 
-  github: 
-  creator: 
+  github: https://github.com/ruthdelcampo/OpenAidRegister
+  creator: New York Law School project funded by the Fulbright Commission and the Government of Spain
   wishlist:  
   status: 
   documentation: 
