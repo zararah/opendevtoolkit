@@ -72,7 +72,7 @@ Tech option: see this [How to contribute to the tools page readme](https://githu
 		{% if tool.github %}
 			<a href="{{ tool.github }}">Github URL</a>
 		{% else %}
-			<span class="txt-muted">Not applicable- closed source</span>
+			<span class="txt-muted">[to be completed]</span>
 		{% endif %}
 	</dd>	
 	<dt>Created by</dt>
