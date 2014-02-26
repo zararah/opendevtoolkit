@@ -21,7 +21,7 @@ By using the Filter by Sector option, which works on top of the Country Filter, 
 
 But while gay rights specifically doesn't seem to be mentioned in aid activities in Uganda, activities centred around health certainly are.
 
-#### Health aid 
+### Health aid 
 
 According again to the Sector Filter from AidView, a total of $165 million was spent in health aid activities, through 37 activities (again, the timescale for these activities is unclear). Interestingly, the only health projects here that are focused on HIV / AIDS are majority funded by the UK, though some in partnership with other multilateral donors such as this project to [improve delivery of HIV Prevention Services](http://www.aidview.net/activity/GB-1-200787-103) between the UNDP and the UK's Department for International Development. 
 
