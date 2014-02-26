@@ -17,7 +17,7 @@ If you have a Github account, you can edit the file directly via Github [here](h
 | **audience** | Text | Who are the end users/target audience of the tool? eg. "citizens in the UK" |
 | **tech** | Text | Programming languages / technologies that are used within the tool, eg. "javascript, python, D3" |
 | **source** | Text or URL, written out in HTML | Either text describing the data source(s) that the tool draws upon, or if a link would be useful, please write out the URL in html |
-| **github** | URL | (If open source) URL of the Github repository, eg. https://github.com/zararah/opendevtoolkit |
+| **github** | URL | (If open source) URL of where the source code can be found, eg. https://github.com/zararah/opendevtoolkit |
 | **creator** | Text | The organisation/individual/institution who developed the tool, as specific as possible |
 | **wishlist** | Text | How would you (as the creator of the tool) or you (as a user of the tool) like to see the tool extended? Are there any features that you felt were missing? (Imagination recommended here!) |
 | **status** | Text | Production / beta / prototype / proof of concept / other |
