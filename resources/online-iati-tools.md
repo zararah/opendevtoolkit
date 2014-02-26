@@ -67,7 +67,7 @@ Tech option: see this [How to contribute to the tools page readme](https://githu
 			<span class="txt-muted">[to be completed]</span>
 		{% endif %}
 	</dd>
-	<dt>Github repo</dt> 
+	<dt>Source code</dt> 
 	<dd>
 		{% if tool.github %}
 			<a href="{{ tool.github }}">Github URL</a>
