@@ -15,16 +15,18 @@
   slug: aid-flows
   url: http://www.aidflows.org/
   aim: " visualizes how much development aid is provided and received around the world"
-  audience: publishers  
+  audience: "Governments, Organizations, Civil Society, News Media, Researchers, NGOs, General Public"
   tech: 
+  - Adobe Flash
+  - HTML5
   source: 
-  - World Bank 
+  - World Bank Group organisations
   - OECD/DAC database 
-  github: 
+  github: Closed source
   creator: "OECD, the World Bank, the Asian Development Bank and the Inter-American Development Bank"
-  wishlist: 
-  status: beta
-  documentation: 
+  wishlist: "iPhone and Android App, expanding sectoral and multilateral views"
+  status: Production
+  documentation: N/A
 
 - name: AidStream
   slug: aidstream
