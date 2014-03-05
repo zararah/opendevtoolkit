@@ -39,8 +39,8 @@ Here are a few of our favourite reads (in no specific order) around the open dev
 * [Aid on the Edge of Chaos](http://aidontheedge.info/) by Ben Ramalingam
 * [Reinventing Foreign Aid](https://mitpress.mit.edu/books/reinventing-foreign-aid) by Bill Easterley
 * Publishing house [Zed Books](http://www.zedbooks.co.uk/) has a number of interesting series, including looking at feminisms and development, and a recently released title ['How Numbers rule the world'](http://www.zedbooks.co.uk/paperback/how-numbers-rule-the-world)
-* [Habiltando la apertura: el futuro de la sociedad de la información en América Latina y el Caribe](http://info25.org/es/habilitando_la_apertura) Editores: Bruce Girard y Fernando Perini and English version, [Enabling Openness:The future of the information society in Latin America and the Caribbean]u(http://info25.org/en/enabling_openness)
-* Smith, M.L. & K.M.A. Reilly, (2013). [Open Development, Networked Innovations in International Development](http://www.zerogeography.net/2014/01/open-development-networked-innovations.html)), London: The MIT Press.
+* [Habiltando la apertura: el futuro de la sociedad de la información en América Latina y el Caribe](http://info25.org/es/habilitando_la_apertura) Editores: Bruce Girard y Fernando Perini and English version, [Enabling Openness:The future of the information society in Latin America and the Caribbean](http://info25.org/en/enabling_openness)
+* Smith, M.L. & K.M.A. Reilly, (2013). [Open Development, Networked Innovations in International Development](http://www.zerogeography.net/2014/01/open-development-networked-innovations.html), London: The MIT Press.
 
 ### Articles 
 
