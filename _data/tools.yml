@@ -166,7 +166,7 @@
 
 - name: IATI datastore
   slug: iati-datastore
-  url: https://iati-datastore.herokuapp.com/
+  url: https://datastore.iatistandard.org/
   aim: To gather all data published to the IATI standard into a single queryable source
   audience:  
   tech: 
