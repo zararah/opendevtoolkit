@@ -238,6 +238,21 @@
   status: beta
   documentation: 
 
+- name: IATI Explorer
+  slug: iati-explorer
+  url: http://iatiexplorer.org
+  aim: "provide tools to explore and access data"
+  audience:  
+  tech: 
+  - Exhibit
+  - eXist-db
+  source: 
+  github: 
+  creator: Development Gateway
+  wishlist:  
+  status: beta (defunct?)
+  documentation: http://iatiexplorer.org/help.php
+
 - name: Mapping for results
   slug: mapping-for-results
   url: http://maps.worldbank.org/
