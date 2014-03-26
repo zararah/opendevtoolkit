@@ -73,12 +73,7 @@ Here are a few of our favourite reads (in no specific order) around the open dev
 
 ### Budget transparency
 
-* [International Budget Partnership](http://internationalbudget.org/):
-** [Impact Case Studies](http://internationalbudget.org/library/publications/ibp-impact-case-studies/)
-** [Policy notes](http://internationalbudget.org/library/publications/policy-notes/)
-** [Budget Briefs](http://internationalbudget.org/library/publications/budget/)
-** [Guides](http://internationalbudget.org/library/publications/guides/)
-** [Reports](http://internationalbudget.org/library/publications/ibpreport/)
+* [International Budget Partnership](http://internationalbudget.org/): [Impact Case Studies](http://internationalbudget.org/library/publications/ibp-impact-case-studies/), [Policy notes](http://internationalbudget.org/library/publications/policy-notes/), [Budget Briefs](http://internationalbudget.org/library/publications/budget/), [Guides](http://internationalbudget.org/library/publications/guides/), [Reports](http://internationalbudget.org/library/publications/ibpreport/)
 
 
 ### Jargon/language use in international development
