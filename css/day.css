@@ -8,6 +8,10 @@ body {
     background-position: top left;
 }
 
+body.nospin {
+    background-image: url('../img/gears_new.png');
+    }
+
 .color1 {
     background: #2C4C9C;
     color: #FFF;
@@ -109,6 +113,7 @@ footer li a:hover {
 #switch {
     background: url("../img/onoff_sprite.png") no-repeat scroll 0 0 transparent;
 }
-#switch:active {
+
+.nospin #switch, #switch:active {
     background-position: 0 -50px;
 }
