@@ -13,3 +13,4 @@ navigation:
 - text: 'Beispiele'
   url: '/#beispiele'
 
+markdown: kramdown
