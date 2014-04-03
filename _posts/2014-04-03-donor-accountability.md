@@ -34,3 +34,4 @@ With immunity stated so clearly here, the chain of accountability going from tho
 
 At a time when multiple initiatives within the global development community (including from UN agencies) are focusing on [listening to marginalised communities](http://www.unmultimedia.org/radio/english/2014/03/minority-groups-face-exclusion-from-national-and-global-development-agenda/), [listening to previously unheard communities](http://www.makingallvoicescount.org/), and more generally, [making international development more inclusive](http://www.idrc.ca/EN/Resources/Publications/Pages/default.aspx); this total lack of accountability to vulnerable communities at the most basic level seems like a huge and critical oversight.
 
+(Got questions, or comments? Tweet us [@OpenDevToolkit](http://twitter.com/opendevtoolkit))
