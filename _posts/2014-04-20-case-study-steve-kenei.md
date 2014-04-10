@@ -6,9 +6,7 @@ title: "Case Study: Steve Kenei, Technical Analyst at Development Initiatives in
 unlisted: false
 ---
 
-## Case study: Steve Kenei, Technical Analyst, Development Initiatives, Nairobi, Kenya.
-
-[[Steve](http://devinit.org/author/steve-kenei/) is the only Technical Lead working at the [Development Initiatives](http://devinit.org/) office in Nairobi, Kenya; we spoke via Skype on April 10th, 2014]
+*[Steve](http://devinit.org/author/steve-kenei/) is the only Technical Lead working at the [Development Initiatives](http://devinit.org/) office in Nairobi, Kenya; spoke via Skype on April 10th, 2014*
 
 <img src="http://devinit.org/wp-content/uploads/2013/09/Steve-Kenei-233x300.jpg" align="right">
 
