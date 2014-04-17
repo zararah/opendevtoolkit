@@ -10,7 +10,7 @@ unlisted: false
 
 <img src="http://devinit.org/wp-content/uploads/2013/09/Steve-Kenei-233x300.jpg" align="right">
 
-Colleagues at the Development Initiatives in Nairobi come to me to find out how/where to get the data they need, to convert it into a format they can work with, and to manipulate the data.  
+Colleagues at the Development Initiatives office in Nairobi come to me to find out how/where to get the data they need, to convert it into a format they can work with, and to manipulate the data.  
 
 A common issue that I come across is people coming to me with PDFs, and needing the data in a reusable format; it’s an old problem, and it’s getting boring! 
 
