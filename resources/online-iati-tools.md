@@ -15,15 +15,10 @@ In the meantime, we've been gathering information on the tools that are out ther
 
 We'll keep the list of tools up here too for reference, but for the most up to date and annotated details on the tools for **using and accessing aid data**, check out [the spreadsheet](https://docs.google.com/a/okfn.org/spreadsheet/ccc?key=0AiWM2KV46Zt0dG5jOUV3MUFtd0s5ZUV2bXU1LXpmQlE&usp=drive_web#gid=4) and [let us know](mailto:zara.rahman@okfn.org) if you have anything to add, or any questions.
 
+**For the most up to date list of tools, with reviews and descriptions, please look at [the spreadsheet](https://docs.google.com/a/okfn.org/spreadsheet/ccc?key=0AiWM2KV46Zt0dG5jOUV3MUFtd0s5ZUV2bXU1LXpmQlE&usp=drive_web#gid=4) rather than the list below**
 
+(For posterity; the original list of tools)
 
-To contribute: 
-
-Non-tech option: email [zara.rahman[at]okfn.org](mailto:zara.rahman@okfn.org) stating clearly which tool(s) you're emailing about, and which fields you'd like to fill in. 
-
-Tech option: see this [How to contribute to the tools page readme](https://github.com/zararah/opendevtoolkit/blob/gh-pages/how-to-contribute.md)
-
-**Thank you!**
 
 ### Contents
 <ul>
