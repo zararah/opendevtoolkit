@@ -116,16 +116,20 @@
   slug: dev-tracker
   url: http://devtracker.dfid.gov.uk/
   aim: To allow the user to find and explore detailed information on international development projects funded by the UK Government
-  audience: 
+  audience: UK citizens, Governments, Organizations, Civil Society, News Media, Researchers and NGOs.
   tech: 
-  - JavaScript
+  - Neo4j
   - Scala
+  - MongoDB
+  - Play Framework
+  - Ruby
+  - jQuery, D3.js, Leaflet
   source: Open data published by UK Government and partners via IATI data
   github: https://github.com/DFID/aid-platform-beta
   creator: DFID
   wishlist:  
-  status: 
-  documentation: 
+  status: Production
+  documentation: https://github.com/DFID/aid-platform-beta/wiki
 
 - name: data.unops.org
   slug: data-unops-org
