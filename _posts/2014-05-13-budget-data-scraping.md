@@ -2,11 +2,11 @@
 layout: post
 tagline: ""
 tags : [tech, open knowledge]
-title: "Budget data scraping in Kenya + Uganda"
+title: "Data scraping to pull together budgets for Rwanda and Uganda"
 unlisted: false
 ---
 
-<strong>Co-authored by Gertrude Nandyona</strong>
+<strong>Written by Simon Peters and Gertrude Nandyona</strong>
 
 <b><i>The Development Initiatives Africa Hub analysts have been ‘data scraping’ to make the first spreadsheets of the Uganda and Rwanda budgets in soft copies. Gertrude Nandyona and Simon Peters, Development Initiatives Analysts, blog from the front lines of the Data Revolution to explain how they did it – and why it matters.</i></b>
 
