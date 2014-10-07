@@ -1,3 +1,18 @@
+- name: ActivityInfo
+  slug: activityinfo
+  url: https://www.activityinfo.org/
+  aim: "ActivityInfo is an online humanitarian project monitoring tool, which helps humanitarian organizations to collect, manage, map and analyze indicators."
+  audience:
+  tech: Java
+  source:
+  github: https://github.com/bedatadriven/activityinfo
+  creator:
+  - Unicef
+  - BeDataDriven
+  wishlist:
+  status: Production
+  documentation: https://about.activityinfo.org/learn/
+
 - name: Aid Data Beta
   slug: aid-data-beta
   url: http://www.aiddata.org
